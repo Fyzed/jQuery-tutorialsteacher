@@ -1,1 +1,1 @@
-# jQuery-tutorialstreacher
+# jQuery-tutorialsteacher
